@@ -68,14 +68,14 @@ Follow these steps to get the Expense Tracker up and running locally.
 git clone https://github.com/your-username/expense-tracker.git
 cd expense-tracker
 
-### **2. Install Dependencies**
+2. Install Dependencies
 
 Install the required Node.js packages:
 
 ```bash
 npm install
 
-### **3. Set Up PostgreSQL Database**
+3. Set Up PostgreSQL Database
 Create a PostgreSQL database, e.g., expense_db.
 
 Create a table named expenses with the following SQL:
@@ -87,20 +87,20 @@ CREATE TABLE expenses (
   category VARCHAR(100),
   date DATE NOT NULL DEFAULT CURRENT_DATE
 );
-### **4. Configure Environment Variables**
+4. Configure Environment Variables
 Create a .env file in the root directory and add your PostgreSQL connection string:
 
 DATABASE_URL=postgresql://your_username:your_password@localhost:5432/expense_db
 PORT=3000
 Replace your_username, your_password, and expense_db with your actual credentials.
 
-### **5. Start the Server**
+5. Start the Server
 Run the application:
 npm start
 The server should now be running at:
 http://localhost:3000
 
-**✅ You're All Set!**
+✅ You're All Set!
 Visit your browser to interact with the expense tracker. You can now:
 Add new expenses
 View all past expenses

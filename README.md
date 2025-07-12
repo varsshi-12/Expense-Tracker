@@ -100,8 +100,11 @@ npm start
 The server should now be running at:
 http://localhost:3000
 
-✅ You're All Set!
-Visit your browser to interact with the expense tracker. You can now:
-Add new expenses
-View all past expenses
-See a monthly summary
+### ✅ You're All Set!
+
+Visit your browser to interact with the Expense Tracker. You can now:
+
+- ➕ **Add new expenses**
+- 📜 **View all past expenses**
+- 📈 **See a monthly summary**
+

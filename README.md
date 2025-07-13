@@ -50,13 +50,13 @@ expense-tracker/
 ## 📸 Screenshots
 
 ### 📊 Dashboard View
-![Dashboard Screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5cce741a-e990-4b9d-bff8-6ec6f2c598e7" />)
+![Dashboard Screenshot](<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/e01c8b67-10e2-4389-8d73-776847df3fd1" />)
 
 ### ➕ Add Expense Form
-![Add Expense](<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/fe5ee422-19e8-4775-a2d2-35e8c1f742f8" />)
+![Add Expense](<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/0a19b552-eaff-4eed-9584-78cc7dd7b208" />)
 
 ### 📈 Monthly Summary
-![Monthly Summary](<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/fe545a57-b8b7-4e91-8ec7-c3c11d06faf7" />)
+![Monthly Summary](<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/3afe7d5a-a1a0-43ec-a88f-3bb04ba1b6c4" />)
 
 ## ⚙️ Installation & Setup
 
